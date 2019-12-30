@@ -1,0 +1,1 @@
+window.NasgoJS = NasgoJS = require('./index.js');

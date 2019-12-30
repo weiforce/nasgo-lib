@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+	"express": "*",
+	"body-parser": "*",
+	"bitcore-mnemonic": "*",
+	"log4js": "^6.1.0"
+  }
+}
